@@ -1,4 +1,3 @@
-##### written with ❤️ by [ayunami2000](https://github.com/ayunami2000)
 # eaglercraft
 
 Combines 1.5 and 1.8 Eaglercraft servers together!
